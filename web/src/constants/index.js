@@ -42,7 +42,7 @@ export const Intro = () => {
       <div className="sm:justify-center flex flex-col text-left mt-10 sm:-mt-28">
         <div className="text-9xl text-black dark:text-white">Hi.</div>
         <div className="text-3xl text-black dark:text-white">
-          I'm Nathen Smith.
+          I'm Esther Lin.
         </div>
         <br />
         <div className="text-gray-600 text-gray-800 dark:text-gray-300 text-lg">
@@ -113,7 +113,7 @@ export const experience = [
   },
 ];
 
-export const showSkillBar = false; // show icons instead
+export const showSkillBar = true; // show icons instead
 
 export const skills = [
   {
